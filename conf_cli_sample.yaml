@@ -1,0 +1,6 @@
+# NooLite PR1132 config
+noolite:
+  login: <NooLite_login>
+  password: <NooLite_password>
+  # Full api url: http://192.168.2.200
+  api_url: <NooLite_web_interface_url>
